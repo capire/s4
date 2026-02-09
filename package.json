@@ -8,7 +8,7 @@
   },
   "cds": {
     "requires": {
-      "S4BusinessPartnerService": {
+      "sap.capire.s4.business-partner": {
         "service": "API_BUSINESS_PARTNER",
         "kind": "odata-v2"
       }
