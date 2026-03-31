@@ -1,6 +1,6 @@
 {
   "name": "@capire/s4",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "description": "Pre-built integration package for S/4HANA",
   "repository": "https://github.com/capire/common",
   "dependencies": {
